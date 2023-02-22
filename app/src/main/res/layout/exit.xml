@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    <ImageButton
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="136dp"
+            android:textSize="20sp"
+            android:background="@drawable/my_custom_selector_pos"
+            android:src="@drawable/ic_launcher_background"
+            android:layout_marginLeft="10dp"
+            android:textColor="#e0f7fa"
+            android:id="@+id/exit"/>
+
+</LinearLayout>
